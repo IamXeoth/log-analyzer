@@ -1,0 +1,20 @@
+cat > .gitignore << 'EOF'
+# Relatórios gerados
+*.json
+*.csv
+security_report_*
+security_analysis_*
+
+# Logs temporários
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+EOF
