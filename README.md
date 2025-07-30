@@ -86,6 +86,8 @@ ruby log_analyzer.rb -v /var/log/apache2/access.log /var/log/nginx/access.log
 
 Só analise logs que você tem permissão para acessar. Óbvio, né?
 
+OS LOGS SÃO EXEMPLOS!!!
+
 ## Requisitos
 
 Ruby 2.7+
