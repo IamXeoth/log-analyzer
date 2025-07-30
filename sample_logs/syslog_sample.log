@@ -1,0 +1,7 @@
+Jul 29 10:15:23 webserver sshd[1234]: Failed password for admin from 10.0.0.80 port 22 ssh2
+Jul 29 10:15:45 webserver sshd[1235]: Failed password for root from 10.0.0.80 port 22 ssh2
+Jul 29 10:16:12 webserver sshd[1236]: Failed password for admin from 10.0.0.80 port 22 ssh2
+Jul 29 10:16:30 webserver apache2[2000]: SQL injection attempt detected in request
+Jul 29 10:17:00 webserver kernel: firewall blocked connection from 192.168.1.200
+Jul 29 10:17:30 webserver sshd[1237]: Accepted password for user1 from 192.168.1.10 port 22 ssh2
+Jul 29 10:18:00 webserver apache2[2001]: XSS attack blocked from 10.0.0.90

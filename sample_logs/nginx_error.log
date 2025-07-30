@@ -1,0 +1,5 @@
+2025/07/29 10:15:00 [error] 1234#0: *567 access forbidden by rule, client: 192.168.1.100, server: example.com, request: "GET /admin HTTP/1.1"
+2025/07/29 10:16:30 [warn] 1234#0: *568 suspicious request detected, client: 10.0.0.50, server: example.com, request: "GET /index.php?page=../../../../etc/passwd HTTP/1.1"
+2025/07/29 10:17:45 [error] 1234#0: *569 script injection attempt, client: 10.0.0.50, server: example.com, request: "POST /form.php HTTP/1.1"
+2025/07/29 10:18:12 [warn] 1234#0: *570 multiple failed login attempts, client: 10.0.0.60, server: example.com
+2025/07/29 10:19:30 [info] 1234#0: *571 normal request processed, client: 192.168.1.20, server: example.com
